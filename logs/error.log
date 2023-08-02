@@ -1,1 +1,2 @@
 2023-07-31 18:58:58:5858 - [31merror[39m: [31mnão foi possivel conectar[39m
+2023-08-01 23:54:36:5436 - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "64c9c23f40d506bea2490bf" (type string) at path "_id" for model "Movie"[39m
